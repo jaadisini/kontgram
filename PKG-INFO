@@ -1,9 +1,9 @@
 Metadata-Version: 2.4
-Name: kelragram
+Name: kontgram
 Version: 2.0.215
 Summary: Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots (Navy Fork)
-Home-page: https://github.com/Narutorawr/kelragram
-Download-URL: https://github.com/Narutorawr/kelragram/releases/latest
+Home-page: https://github.com/jaadisini/kontgram
+Download-URL: https://github.com/jaadisini/kontgram/releases/latest
 Author: kelra
 Author-email: datauserbot@gmail.com
 License: LGPLv3
